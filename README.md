@@ -1,4 +1,4 @@
-https://github.com/Toleugazinova/Web_assignment2.git
+https://toleugazinova.github.io/Web_assignment2/
 Amina Toleugazinova  IT-2513
 Web Technologies 1
 Assignment 2
